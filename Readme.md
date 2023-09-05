@@ -1,2 +1,3 @@
-Arquivo criado para aprender Git
+
+Aqui estou treinando
 Assinado por: Ricardo
